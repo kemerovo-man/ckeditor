@@ -1,1 +1,0 @@
-(function(d){d['fi']=Object.assign(d['fi']||{},{a:"Editor toolbar",b:"Show more items",c:"Rikas tekstieditori, %0",d:"Rikas tekstieditori",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

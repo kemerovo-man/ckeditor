@@ -1,1 +1,0 @@
-(function(d){d['sq']=Object.assign(d['sq']||{},{a:"Editor toolbar",b:"Show more items",c:"Redaktues i Tekstit të Pasur, %0",d:"Redaktues i Tekstit të Pasur",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

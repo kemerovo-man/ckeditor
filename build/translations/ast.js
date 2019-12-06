@@ -1,1 +1,0 @@
-(function(d){d['ast']=Object.assign(d['ast']||{},{a:"Editor toolbar",b:"Show more items",c:"Editor de testu arriquecíu, %0",d:"Editor de testu arriquecíu",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

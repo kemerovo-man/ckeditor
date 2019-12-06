@@ -1,1 +1,0 @@
-(function(d){d['sv']=Object.assign(d['sv']||{},{a:"Editor toolbar",b:"Show more items",c:"Rich Text-editor, %0",d:"Rich Text-editor",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

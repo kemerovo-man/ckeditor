@@ -1,1 +1,0 @@
-(function(d){d['zh']=Object.assign(d['zh']||{},{a:"Editor toolbar",b:"Show more items",c:"豐富文字編輯器，%0",d:"豐富文字編輯器",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,1 +1,0 @@
-(function(d){d['sk']=Object.assign(d['sk']||{},{a:"Panel nástrojov editora",b:"Show more items",c:"Editor s formátovaním, %0",d:"Editor s formátovaním",e:"Panel nástrojov roletového menu"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

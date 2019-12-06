@@ -1,1 +1,0 @@
-(function(d){d['id']=Object.assign(d['id']||{},{a:"Alat editor",b:"Show more items",c:"Editor Teks Kaya, %0",d:"Editor Teks Kaya",e:"Alat dropdown"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,1 +1,0 @@
-(function(d){d['km']=Object.assign(d['km']||{},{a:"Editor toolbar",b:"Show more items",c:"កម្មវិធី​កែសម្រួល​អត្ថបទ​សម្បូរបែប, %0",d:"កម្មវិធី​កែសម្រួល​អត្ថបទ​សម្បូរបែប",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

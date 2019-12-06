@@ -1,1 +1,0 @@
-(function(d){d['da']=Object.assign(d['da']||{},{a:"Editor værktøjslinje",b:"Vis flere emner",c:"Wysiwyg editor, %0",d:"Wysiwyg editor",e:"Dropdown værktøjslinje"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

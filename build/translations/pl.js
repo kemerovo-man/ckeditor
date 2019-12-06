@@ -1,1 +1,0 @@
-(function(d){d['pl']=Object.assign(d['pl']||{},{a:"Pasek narzędzi edytora",b:"Pokaż więcej",c:"Edytor tekstu sformatowanego, %0",d:"Edytor tekstu sformatowanego",e:"Rozwijany pasek narzędzi"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

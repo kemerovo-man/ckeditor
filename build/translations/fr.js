@@ -1,1 +1,0 @@
-(function(d){d['fr']=Object.assign(d['fr']||{},{a:"Barre d'outils de l'éditeur",b:"Montrer plus d'éléments",c:"Éditeur de texte enrichi, %0",d:"Éditeur de texte enrichi",e:"Barre d'outils dans un menu déroulant"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

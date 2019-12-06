@@ -1,1 +1,0 @@
-(function(d){d['hu']=Object.assign(d['hu']||{},{a:"Szerkesztő eszköztár",b:"További elemek",c:"Bővített szövegszerkesztő, %0",d:"Bővített szövegszerkesztő",e:"Lenyíló eszköztár"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,1 +1,0 @@
-(function(d){d['sr']=Object.assign(d['sr']||{},{a:"Уређивач трака са алаткама",b:"Прикажи још ставки",c:"Проширени уређивач текста, %0",d:"Проширен уређивач текста",e:"Падајућа трака са алаткама"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

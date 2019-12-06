@@ -1,1 +1,0 @@
-(function(d){d['it']=Object.assign(d['it']||{},{a:"Barra degli strumenti dell'editor",b:"Mostra più elementi",c:"Editor di testo formattato, %0",d:"Editor di testo formattato",e:"Barra degli strumenti del menu a discesa"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

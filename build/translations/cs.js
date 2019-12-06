@@ -1,1 +1,0 @@
-(function(d){d['cs']=Object.assign(d['cs']||{},{a:"Panel nástrojů editoru",b:"Zobrazit další položky",c:"Textový editor, %0",d:"Textový editor",e:"Rozbalovací panel nástrojů"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

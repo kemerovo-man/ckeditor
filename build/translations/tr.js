@@ -1,1 +1,0 @@
-(function(d){d['tr']=Object.assign(d['tr']||{},{a:"Düzenleme araç çubuğu",b:"Daha fazla madde göster",c:"Zengin İçerik Editörü, %0",d:"Zengin İçerik Editörü",e:"Açılır araç çubuğu"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

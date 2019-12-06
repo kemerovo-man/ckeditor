@@ -1,1 +1,0 @@
-(function(d){d['el']=Object.assign(d['el']||{},{a:"Editor toolbar",b:"Show more items",c:"Επεξεργαστής Πλούσιου Κειμένου, 0%",d:"Επεξεργαστής Πλούσιου Κειμένου",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
