@@ -1,1 +1,1 @@
-(function(d){d['ja']=Object.assign(d['ja']||{},{a:"リッチテキストエディター",b:"Editor toolbar",c:"Show more items",d:"リッチテキストエディター, %0",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['ja']=Object.assign(d['ja']||{},{a:"Editor toolbar",b:"Show more items",c:"リッチテキストエディター, %0",d:"リッチテキストエディター",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

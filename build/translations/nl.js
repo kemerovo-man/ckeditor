@@ -1,1 +1,1 @@
-(function(d){d['nl']=Object.assign(d['nl']||{},{a:"Tekstbewerker",b:"Editor welkbalk",c:"Meer items weergeven",d:"Tekstbewerker, 0%",e:"Drop-down werkbalk"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['nl']=Object.assign(d['nl']||{},{a:"Editor welkbalk",b:"Meer items weergeven",c:"Tekstbewerker, 0%",d:"Tekstbewerker",e:"Drop-down werkbalk"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

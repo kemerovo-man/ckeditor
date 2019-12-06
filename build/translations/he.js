@@ -1,1 +1,1 @@
-(function(d){d['he']=Object.assign(d['he']||{},{a:"עורך טקסט עשיר",b:"סרגל הכלים",c:"הצד פריטים נוספים",d:"עורך טקסט עשיר, %0",e:"סרגל כלים נפתח"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['he']=Object.assign(d['he']||{},{a:"סרגל הכלים",b:"הצד פריטים נוספים",c:"עורך טקסט עשיר, %0",d:"עורך טקסט עשיר",e:"סרגל כלים נפתח"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

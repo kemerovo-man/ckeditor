@@ -1,1 +1,1 @@
-(function(d){d['lt']=Object.assign(d['lt']||{},{a:"Raiškiojo teksto redaktorius",b:"Editor toolbar",c:"Show more items",d:"Raiškiojo teksto redaktorius, %0",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['lt']=Object.assign(d['lt']||{},{a:"Editor toolbar",b:"Show more items",c:"Raiškiojo teksto redaktorius, %0",d:"Raiškiojo teksto redaktorius",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

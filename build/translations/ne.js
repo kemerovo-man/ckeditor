@@ -1,1 +1,1 @@
-(function(d){d['ne']=Object.assign(d['ne']||{},{a:"धनी पाठ सम्पादक",b:"Editor toolbar",c:"Show more items",d:"धनी पाठ सम्पादक, %0",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['ne']=Object.assign(d['ne']||{},{a:"Editor toolbar",b:"Show more items",c:"धनी पाठ सम्पादक, %0",d:"धनी पाठ सम्पादक",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

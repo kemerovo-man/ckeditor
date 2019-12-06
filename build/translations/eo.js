@@ -1,1 +1,1 @@
-(function(d){d['eo']=Object.assign(d['eo']||{},{a:"Redaktilo de Riĉa Teksto",b:"Editor toolbar",c:"Show more items",d:"Redaktilo de Riĉa Teksto, %0",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['eo']=Object.assign(d['eo']||{},{a:"Editor toolbar",b:"Show more items",c:"Redaktilo de Riĉa Teksto, %0",d:"Redaktilo de Riĉa Teksto",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

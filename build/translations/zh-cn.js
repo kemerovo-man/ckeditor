@@ -1,1 +1,1 @@
-(function(d){d['zh-cn']=Object.assign(d['zh-cn']||{},{a:"富文本编辑器",b:"编辑器工具栏",c:"显示更多",d:"富文本编辑器， %0",e:"下拉工具栏"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['zh-cn']=Object.assign(d['zh-cn']||{},{a:"编辑器工具栏",b:"显示更多",c:"富文本编辑器， %0",d:"富文本编辑器",e:"下拉工具栏"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

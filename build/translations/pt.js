@@ -1,1 +1,1 @@
-(function(d){d['pt']=Object.assign(d['pt']||{},{a:"Editor de texto avançado",b:"Editor toolbar",c:"Show more items",d:"Editor de texto avançado, %0",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['pt']=Object.assign(d['pt']||{},{a:"Editor toolbar",b:"Show more items",c:"Editor de texto avançado, %0",d:"Editor de texto avançado",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

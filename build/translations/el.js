@@ -1,1 +1,1 @@
-(function(d){d['el']=Object.assign(d['el']||{},{a:"Επεξεργαστής Πλούσιου Κειμένου",b:"Editor toolbar",c:"Show more items",d:"Επεξεργαστής Πλούσιου Κειμένου, 0%",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['el']=Object.assign(d['el']||{},{a:"Editor toolbar",b:"Show more items",c:"Επεξεργαστής Πλούσιου Κειμένου, 0%",d:"Επεξεργαστής Πλούσιου Κειμένου",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

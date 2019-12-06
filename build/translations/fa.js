@@ -1,1 +1,1 @@
-(function(d){d['fa']=Object.assign(d['fa']||{},{a:"ویرایشگر متن غنی",b:"نوارابزار ویرایشگر",c:"Show more items",d:"ویرایشگر متن غنی، %0",e:"نوارابزار کشویی"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['fa']=Object.assign(d['fa']||{},{a:"نوارابزار ویرایشگر",b:"Show more items",c:"ویرایشگر متن غنی، %0",d:"ویرایشگر متن غنی",e:"نوارابزار کشویی"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,1 +1,1 @@
-(function(d){d['no']=Object.assign(d['no']||{},{a:"Tekstredigeringsverktøy for rik tekst",b:"Editor toolbar",c:"Show more items",d:"Tekstredigeringsverktøy for rik tekst, %0",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['no']=Object.assign(d['no']||{},{a:"Editor toolbar",b:"Show more items",c:"Tekstredigeringsverktøy for rik tekst, %0",d:"Tekstredigeringsverktøy for rik tekst",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

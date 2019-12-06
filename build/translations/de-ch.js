@@ -1,1 +1,1 @@
-(function(d){d['de-ch']=Object.assign(d['de-ch']||{},{a:"Rich-Text-Edito",b:"Editor toolbar",c:"Show more items",d:"Rich-Text-Editor, %0",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['de-ch']=Object.assign(d['de-ch']||{},{a:"Editor toolbar",b:"Show more items",c:"Rich-Text-Editor, %0",d:"Rich-Text-Edito",e:"Dropdown toolbar"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
